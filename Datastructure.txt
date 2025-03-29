@@ -1,0 +1,31 @@
+Abnormal Traffic Detection Based on Attention and Big Step Convolution
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:3.July.2023
+
+
+Attention, histogram equalization, big step CNN, abnormal traffic detection.
+
+Abnormal_Traffic_Detection
+
+
+abnormal_traffic_detection
+
+
+
+predict_abnormal_traffic
+
+
+Fid	
+lat	
+lon	
+street	
+region	
+traffic_date_time	
+junction_no	
+vechile_type	
+no_of_vehicles
+Prediction
+
+
+
